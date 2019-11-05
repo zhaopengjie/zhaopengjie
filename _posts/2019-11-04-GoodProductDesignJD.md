@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "GoodProductDesignJD"
-date:   2019-11-03
+date:   2019-11-04 +0800
 categories: ProductDesign
 ---
 
