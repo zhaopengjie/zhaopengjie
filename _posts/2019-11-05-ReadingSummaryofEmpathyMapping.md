@@ -2,8 +2,11 @@
 layout: post
 title:  "Reading summary of Empathy Mapping"
 date:   2019-11-05 21:03:36 +0800
-categories: ProductDesign ReadingSummary
+categories: ReadingSummary
 ---
+
+https://www.nngroup.com/articles/empathy-mapping/
+
 
 >The **Says** quadrant contains what the user says out loud in an interview or some other usability study. Ideally, it contains verbatim and direct quotes from research.
 
@@ -23,3 +26,8 @@ categories: ProductDesign ReadingSummary
 >The **Feels** quadrant is the user’s emotional state, often represented as an adjective plus a short sentence for context. Ask yourself: what worries the user? What does the user get excited about? How does the user feel about the experience?
 
 >Impatient: pages load too slowly
+
+>It is natural (and extremely beneficial) to see juxtaposition between quadrants. You will also encounter inconsistencies — for example, seemingly positive actions but negative quotes or emotions coming from the same user.  This is when empathy maps become treasure maps that can uncover nuggets of understanding about our user. It is our job as UX professionals to investigate the cause of the conflict and resolve it.
+
+>Some of these quadrants may seem ambiguous or overlapping — for example, it may be difficult to distinguish between Thinks and Feels. Do not focus too much on being precise: if an item may fit into multiple quadrants, just pick one. The 4 quadrants exist only to push our knowledge about users and to ensure we don’t leave out any important dimension. (If you don’t have anything to put into a certain quadrant, it’s a strong signal that you need more user research before proceeding in the design process.)
+
