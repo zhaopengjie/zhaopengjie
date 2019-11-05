@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Reading summary of Empathy Mapping"
-date:   2019-11-03
+date:   2019-11-05 +0800
 categories: ProductDesign ReadingSummary
 ---
 
